@@ -1,0 +1,25 @@
+.App-Container {
+  width: 800px;
+  margin: 40px auto 0;
+  padding: 24px 32px;
+  background-color: #fff;
+  box-shadow: 0 0 30px 5px rgba(0,0,0,0.2);
+}
+
+.App-Title {
+  margin-bottom: 24px;
+  text-align: center;
+  font-weight: 200;
+}
+
+.App-Form {
+  margin-bottom: 24px;
+}
+
+.App-Form-Input {
+  width: 100%;
+  padding: 12px 24px;
+  outline: none;
+  border: 1px #ccc solid;
+  font-size: 18px;
+}

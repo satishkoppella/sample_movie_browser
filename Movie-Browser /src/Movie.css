@@ -1,0 +1,43 @@
+.Movie {
+  overflow: hidden;
+  padding-bottom: 60px;
+}
+
+.Movie-Image {
+  float: left;
+  width: 180px;
+  border: 1px #ccc solid;
+}
+.Movie-Description {
+  margin-left: 200px;
+}
+
+.Movie-Title {
+  margin-top: 0;
+  margin-bottom: 4px;
+}
+
+.Movie-Crew, .Movie-Header, .Movie-Synopsis {
+  margin-bottom: 18px;
+}
+
+.Movie-Error {
+  text-align: center;
+}
+
+.Movie-Stats-Icon {
+  margin-right: 2px;
+}
+
+.Movie-Stats-Icon-Heart {
+  color: #e74c3c;
+}
+
+.Movie-Stats-Icon-Star {
+  color: #f39c12;
+}
+
+.Movie-Stats-Divider {
+  margin-left: 10px;
+  margin-right: 10px;
+}
